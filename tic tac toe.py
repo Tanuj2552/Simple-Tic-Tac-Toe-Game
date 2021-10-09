@@ -165,6 +165,8 @@ def game3():
                 break
             
             play3(a,p,q,r,s,f)
+            
+game3()            
            
            
            
